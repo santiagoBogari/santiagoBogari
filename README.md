@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm  from Argentina<br><br>- 🔭 I’m working as a Salesforce Administrator<br>- 📚 I'm currently learning DevOps and Release Manager role<br>- ⚡ In my free time I´m a Martial Arts instructor.</p>
+<p align="left">I'm  from Argentina<br><br>- 🔭 I’m working as a Salesforce Administrator<br>- 📚 I'm currently learning Salesforce Marketing Cloud<br>- ⚡ In my free time I´m a Martial Arts instructor.</p>
 
 ###
 ###
