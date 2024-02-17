@@ -1,24 +1,20 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Santiago Bogari
+=======================================================================================================================================
+
+Salesforce Core & Marketing Cloud Administrator
+-----------------------------------------------
+
+* 🌍  I'm based in Argentina
+* 🖥️  See my portfolio at [https://tinyurl.com/Bogari](http://tinyurl.com/Bogari)
+* ✉️  You can contact me at [santiagobogari@gmail.com](mailto:santiagobogari@gmail.com)
 
 
-<h1 align="center">Hi 👋, I'm Santiago Bogari</h1>
-<h3 align="center">Salesforce Core & SFMC Administrator</h3>
-
-
-
-###
-
-
-###
-
-
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm  from Argentina<br><br>- 🔭 I’m working as a Salesforce Marketing Cloud Admin<br>- 📚 I'm currently learning AMPscript<br>- ⚡ In my free time I´m a Martial Arts instructor.</p>
+<p align="left"><br><br>- 🔭 I’m working as a Salesforce Marketing Cloud Admin<br>- 📚 I'm currently learning AMPscript<br>- ⚡ In my free time I´m a Martial Arts instructor.</p>
 
 ###
 ###
@@ -49,11 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
 </div>
 
-###
-- 📫 How to reach me **santiagobogari@gmail.com**
-###
-###
-- 📫 How to reach me **https://sites.google.com/view/santiago-bogari/home**
 ###
 <div> <a href="https://www.linkedin.com/in/santiago-bogari/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/santiagoBogari" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
