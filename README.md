@@ -1,8 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Santiago Bogari</h1>
-<h3 align="center">Salesforce CRM Administrator</h3>
-<h3 align="center">Salesforce SFMC Administrator</h3>
+<h3 align="center">Salesforce Core & SFMC Administrator</h3>
 
 
 
