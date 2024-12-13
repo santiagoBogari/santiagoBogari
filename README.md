@@ -14,7 +14,7 @@ Salesforce Sales Cloud & Marketing Cloud Certified Specialist
 
 ###
 
-<p align="left"><br><br>- 🔭 I’m working in Salesforce Marketing Cloud<br>- 📚 I'm currently learning Codebr>- ⚡ In my free time I´m a Martial Arts instructor.</p>
+<p align="left"><br><br>- 🔭 I’m working in Salesforce Marketing Cloud<br>- 📚 I'm currently learning Code<br>- ⚡ In my free time I´m a Martial Arts instructor.</p>
 
 ###
 ###
