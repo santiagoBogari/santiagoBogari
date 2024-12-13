@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Santiago Bogari
 =======================================================================================================================================
 
-Salesforce Sales Cloud & Marketing Cloud Administrator
+Salesforce Sales Cloud & Marketing Cloud Certified Specialist
 -----------------------------------------------
 
 * 🌍  I'm based in Argentina
@@ -14,7 +14,7 @@ Salesforce Sales Cloud & Marketing Cloud Administrator
 
 ###
 
-<p align="left"><br><br>- 🔭 I’m working as a Salesforce Marketing Cloud Admin<br>- 📚 I'm currently learning AMPscript<br>- ⚡ In my free time I´m a Martial Arts instructor.</p>
+<p align="left"><br><br>- 🔭 I’m working in Salesforce Marketing Cloud<br>- 📚 I'm currently learning Codebr>- ⚡ In my free time I´m a Martial Arts instructor.</p>
 
 ###
 ###
